@@ -10,6 +10,7 @@ package modelo;
  * @author rzagza
  */
 public class Modelo {
+    //KKKKKKJ
     String numero;
     String nombreProducto;
     int precio;
