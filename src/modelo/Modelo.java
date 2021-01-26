@@ -11,7 +11,10 @@ package modelo;
  */
 public class Modelo {
     String numero;
-    int id;
+    String nombreProducto;
+    int precio;
+    String proveedor;
+    String vendedor;
 
     public Modelo(String numero, int id) {
         this.numero = numero;
